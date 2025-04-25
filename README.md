@@ -5,7 +5,7 @@
 
 $$　
 p(s', r \mid s, a) = P(S_{t+1} = s', R_{t+1} = r \mid S_t = s, A_t = a)
-$$　　
+$$<br>　　
 
 $$
 p(s', r \mid s, a)
