@@ -7,6 +7,10 @@ $$　
 p(s', r \mid s, a) = P(S_{t+1} = s', R_{t+1} = r \mid S_t = s, A_t = a)
 $$　　
 
+$$
+p(s', r \mid s, a)
+$$→状態sで行動aをとったとき、次の状態がs'になり、報酬がrになる確率
+
 ```
 #1.遷移確率の定義
 transition_probabilities = {
