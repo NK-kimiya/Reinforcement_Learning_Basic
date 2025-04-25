@@ -5,5 +5,5 @@
 
 
 $$
-p(s^\prime,r\ \close|\ \ s,a)=P{S_t+1=s^\prime,R_(t+1)=r\ \close|\ S_t=s,A_t=a}
+p(s', r \mid s, a) = P(S_{t+1} = s', R_{t+1} = r \mid S_t = s, A_t = a)
 $$
